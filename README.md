@@ -12,3 +12,14 @@ Including:
 4. Actor-Critic
 5. Multi-agent cooperative environment
 6. Multi-agent Actor-Critic (MADDPG)
+
+
+
+### Reference
+
+<https://icml.cc/2016/tutorials/deep_rl_tutorial.pdf>
+
+<http://rail.eecs.berkeley.edu/deeprlcourse/>
+
+<http://karpathy.github.io/2016/05/31/rl/>
+
